@@ -1,0 +1,15 @@
+version: 2
+
+python:
+  version: 3.7
+  install:
+     - requirements: requirements.txt
+
+submodules:
+  exclude:
+     - cli
+     - template
+
+mkdocs:
+  configuration: mkdocs.yml
+  fail_on_warning: false
