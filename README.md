@@ -1,6 +1,8 @@
 # Cyberlib
 A utility box for encryption/decryption.
 
+<a class="github-button" href="https://github.com/mind-matrix/cyberlib" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Star mind-matrix/cyberlib on GitHub">Star</a>
+
 ## Installation
 
 From PyPI Repository -
@@ -31,4 +33,4 @@ cy yolo [--input I] [--passcode P]
 The input is required. A 32 character passcode is generated if no passcode is provided.
 
 ## Documentation
-You can find the documentation for the project on ReadTheDocs.
+You can find the entire documentation for the latest version of the project at https://cyberlib.readthedocs.io/en/latest/.
